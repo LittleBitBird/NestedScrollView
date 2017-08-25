@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8dd07066ebdbb881f95857ab685a4458728be263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_546055881f650ceee8228b68de9b55d783a95f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_9be7f3dc1428c50abd7f86fd47372df9a46b6fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6e2d198415786607510601f6addf968724b11dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_63e5f8c839b8d2ca06e6b8cff1abd0acb9632516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_b7306185df8a7c44c8a6d2c7ce67848feaf12412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d5a798a502fe7b6abd386e179609eb6375b5c9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_21b570dc6867df97c36ac4ce05537a23dfabc175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_3308b8978318b7dedce68640fc409df8e62b0dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_4d21b97906b7a478067052dc98da979417bc5a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_064fc103a9b3e60827f8774a8e0985d3a1d77b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4e0a45754e374f2c727734acaf4f60663dd6aa97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_264086ad66a78f23d6d34d732b844098221220af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_5feed2d65919497ead17eea0e0784641d1cba445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_aaa903f69fd2808098c83d1c0ce2d7f3128d431b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3d2e26ff50ea1dc77646e369524e8357734e3bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_d02323b8fa0a1d830cf5f755df4f16df99e62920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_e884690b4051cd34ebfc3d3b3a38d085a30990e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6eab8c9412c60bb0cb39d5baaddbe3f1dc309ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/guanhua.wu/Desktop/nestedScrollView/NestedScrollView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_ab39b961e788fa4bb1ee01de9854d844b804cf28.jar" />
+    </item>
+
+</items>
